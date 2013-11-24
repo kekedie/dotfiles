@@ -23,6 +23,11 @@ let g:Powerline_symbols = 'fancy'
 set laststatus=2
 
 " Solarized stuff
-let g:solarized_termtrans = 1
+" let g:solarized_termtrans = 1
+" set background=dark
+" colorscheme solarized
+
+" Tomorrow stuff
 set background=dark
-colorscheme solarized
+colorscheme Tomorrow-Night-Eighties
+

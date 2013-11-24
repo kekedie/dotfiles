@@ -28,3 +28,6 @@
 [submodule ".zsh/bundle/zsh-syntax-highlighting"]
 	path = .zsh/bundle/zsh-syntax-highlighting
 	url = git@github.com:zsh-users/zsh-syntax-highlighting.git
+[submodule ".theme/bundle/tomorrow"]
+	path = .theme/bundle/tomorrow
+	url = git@github.com:chriskempson/tomorrow-theme.git
