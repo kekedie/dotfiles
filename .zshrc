@@ -189,3 +189,8 @@ if [ -z "$TMUX" -a -z "$STY" ]; then
         fi
     fi
 fi
+
+export JAVA_HOME=`/usr/libexec/java_home -v 1.7`
+export GRADLE_HOME=/usr/local/Cellar/gradle/1.10/libexec
+export SCALA_HOME=/usr/local/Cellar/scala/2.10.3/libexec
+
