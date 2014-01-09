@@ -31,3 +31,6 @@
 [submodule ".theme/bundle/tomorrow"]
 	path = .theme/bundle/tomorrow
 	url = git@github.com:chriskempson/tomorrow-theme.git
+[submodule ".theme/bundle/BlueForest"]
+	path = .theme/bundle/BlueForest
+	url = git@github.com:sirthias/BlueForest.git
