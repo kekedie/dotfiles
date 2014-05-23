@@ -1,0 +1,14 @@
+[user]
+    name  = Han Sangwon
+    email = han_sangwon@cyberagent.co.jp
+
+[color]
+    ui = auto
+
+[alias]
+    st = status
+    co = checkout
+    m  = checkout master
+	rb = rebase
+	br = branch
+	cm = commit
