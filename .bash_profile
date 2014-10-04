@@ -22,6 +22,7 @@ export LS_OPTIONS='--color=auto'
 export CLICOLOR='Yes'
 export LSCOLORS=gxfxbEaEBxxEhEhBaDaCaD
 export PS1='[\u@\h \W$(__git_ps1 " (%s)")]\$ '
+export SBT_OPTS="-XX:+CMSClassUnloadingEnabled -XX:PermSize=512M -XX:MaxPermSize=1024M"
 
 alias ll='ls -lah'
 
