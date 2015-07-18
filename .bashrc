@@ -28,9 +28,9 @@ stty stop undef
 # -----------------------------------------------
 # tmux configuration
 # -----------------------------------------------
-if [[ ! $TERM =~ screen ]]; then
-  exec tmux
-fi
+# if [[ ! $TERM =~ screen ]]; then
+#   exec tmux
+# fi
 # alias tmux="TERM=screen-256color-bce tmux"
 #
 # if [ -z "$TMUX" -a -z "$STY" ]; then
