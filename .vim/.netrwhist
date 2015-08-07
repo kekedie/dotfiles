@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =4
 let g:netrw_dirhist_1='/Users/a12590/Development/Workspace/caamoad/tests/tests-common'
 let g:netrw_dirhist_2='/Users/kekedie/dotfiles/.vim/bundle/vim-colors-solarized'
 let g:netrw_dirhist_3='/Users/kekedie/.tmux'
+let g:netrw_dirhist_4='/Users/a12590/Development/Workspace/myplay/project/project'
