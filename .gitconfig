@@ -12,3 +12,5 @@
 	rb = rebase
 	br = branch
 	cm = commit
+[core]
+	excludesfile = /Users/a12590/.gitignore
